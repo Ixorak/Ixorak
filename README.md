@@ -11,6 +11,7 @@ French-Canadian, based near Lausanne, Switzerland. I work solo and remotely.
 
 | | Project | What it is |
 |---|---|---|
+| 🧾 | [invoice-agent](https://github.com/Ixorak/invoice-agent) | A working AI agent: it reads supplier invoices (PDF, scans included), extracts the data, checks every number with plain Python rules, fills an Excel workbook and flags what a person must look at. Resists prompt injection. 10/10 on 10 fictional test invoices, about 5.5 s per invoice. Python. |
 | 🤖 | [AI agents](https://hugochevrette.ch/projects#agents) | Business demos that play on their own: a support ticket sorted and summarised with a draft reply, a supplier invoice entered in accounting, a web lead added to the CRM, a weekly report sent every Monday. *Fictional examples.* |
 | 🌐 | [Browser agent](https://hugochevrette.ch/projects#navigateur) | An AI that drives the browser for repetitive web tasks: filling in forms, fetching information, comparing supplier prices. *Demo.* |
 | 🏠 | [3D home planner](https://hugochevrette.ch/projects#planificateur) | The plan draws itself, the walls go up, you place the furniture, set the real sun path and walk through. Three.js, under 1 MB of code, smooth on phones. |
