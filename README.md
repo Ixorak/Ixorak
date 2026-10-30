@@ -1,6 +1,6 @@
 <img src="banner.jpg" alt="Ixorak: AI agents. Integrated. Operational." width="100%">
 
-### Hi, I'm Ixorak 👋
+### Hi, I'm Ixorak 
 
 I design **AI agents, automations and custom tools**, 3D in the browser, websites and games.
 French-Canadian, based near Lausanne, Switzerland. I work solo and remotely.
